@@ -4,6 +4,7 @@
 <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04e17044-20bb-45e0-8c38-1ec4b63a846c/deploy-status)](https://app.netlify.com/sites/calcdiverse/deploys)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Rakesh9100%2FCalcDiverse%20&countColor=%23263759&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Rakesh9100/CalcDiverse)
@@ -343,7 +344,10 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 | 277 | Weight On The Moon Calculator | Calculates the weight of the object/person on the moon. | https://calcdiverse.netlify.app/calculators/weight-on-the-moon-calculator/ |
 | 278 | Word Count Calculator | Counts the Total Words, Unique words, Average word length and Exports the data in JSON. | https://calcdiverse.netlify.app/calculators/word-count-calculator/ |
 | 279 | Yarn Density Calculator | Calculates the linear density of the yarn from unit system to another. | https://calcdiverse.netlify.app/calculators/yarn-density-calculator/ |
-| 280 | Chi-Square Calculator | Calculates the chi-square value from the observed and expected data. | https://calcdiverse.netlify.app/calculators/Chi-Square-Calculator/ |
+| 280 | Chi-Square Calculator | Calculates the chi-square value from the observed and expected data. | https://calcdiverse.netlify.app/calculators/chi-square-calculator/ |
+| 281 | Pet Care Cost Calculator | Calculates the cost required to keep the pet throughout lifespan from the entered data. | https://calcdiverse.netlify.app/calculators/pet-care-cost-calculator/ |
+| 282 | Finance Calculator | Calculates the future value of investments and monthly loan payments| https://calcdiverse.netlify.app/Calculators/finance-calculator/ |
+| 283 | Annulus Calculator | Calculates the area of circle with inner and outer radius. | https://calcdiverse.netlify.app/calculators/annulus-calculator/ |
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -425,7 +429,7 @@ git push origin <your_branch_name>
 
 <h2>Contributing Guidelines📑</h2>
 
-Read our [Contributing Guidelines](https://github.com/Rakesh9100/CalcDiverse/blob/main/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and how to build to Click-The-Edible-Game.
+Read our [Contributing Guidelines](https://github.com/Rakesh9100/CalcDiverse/blob/main/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and how to build to CalcDiverse.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
